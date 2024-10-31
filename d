@@ -1,0 +1,35 @@
+[33m32a0a8a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: commit: Atualizacao 2.25.1
+[33mf6729ad[m HEAD@{1}: commit: Atualizacao 2.25
+[33m011548a[m HEAD@{2}: commit: Atualizacao 2.24.2
+[33m4344690[m HEAD@{3}: commit: Atualizacao 2.24.1
+[33m54eeb1c[m HEAD@{4}: commit: Atualizacao 2.24
+[33m2c0ab6b[m HEAD@{5}: commit: Atualizacao 2.23
+[33m7bb2358[m HEAD@{6}: commit: Atualizacao 2.22.13
+[33m82d3a24[m HEAD@{7}: commit: Atualizacao 2.22.12
+[33m01383a0[m HEAD@{8}: commit: Atualizacao 2.22.11
+[33mce5cc69[m HEAD@{9}: commit: Atualizacao 2.22.10
+[33m63790b3[m HEAD@{10}: commit: Atualizacao 2.22.9
+[33m2c2baed[m HEAD@{11}: commit: Atualizacao 2.22.8
+[33m46a9c74[m HEAD@{12}: commit: Atualizacao 2.22.7
+[33m1936733[m HEAD@{13}: commit: Atualizacao 2.22.6
+[33m14359d9[m HEAD@{14}: commit: Atualizacao 2.22.5
+[33m10f82cf[m HEAD@{15}: commit: Atualizacao 2.22.4
+[33m589db94[m HEAD@{16}: commit: Atualizacao 2.22.3
+[33m4233f20[m HEAD@{17}: commit: Atualizacao 2.22.2
+[33mdd60da6[m HEAD@{18}: commit: Atualizacao 2.22.1
+[33m10d89cb[m HEAD@{19}: commit: Atualizacao 2.22
+[33m5c4005e[m HEAD@{20}: commit: Atualizacao 2.21b
+[33mfad5b36[m HEAD@{21}: commit: V. 2.21
+[33mf6f9d20[m HEAD@{22}: commit: V 2.20.1
+[33m621abe4[m HEAD@{23}: commit: V. 2.20.1
+[33mf269f0f[m HEAD@{24}: commit: Atualizacao 2.20
+[33mc1b4f82[m HEAD@{25}: commit: Ver 19
+[33m1b8c32a[m HEAD@{26}: commit: Versao 19
+[33m2216689[m HEAD@{27}: commit: Atualização 2.18.1
+[33m5fb0ec8[m HEAD@{28}: commit: V. 2.18
+[33m1a67b5d[m HEAD@{29}: commit: Atualizacao 2.17
+[33m05e5523[m HEAD@{30}: commit: V. 2.16.1
+[33m0550d19[m HEAD@{31}: commit: V. 2.16
+[33m545c108[m HEAD@{32}: commit: V. 2.16
+[33me86e2cc[m HEAD@{33}: commit: V. 2.15
+[33m7a5d47a[m HEAD@{34}: commit (initial): commit inicial
